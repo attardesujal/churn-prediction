@@ -32,12 +32,3 @@ Telco Customer Churn — [Kaggle](https://www.kaggle.com/datasets/blastchar/telc
 ## How to Run
 pip install -r requirements.txt
 jupyter notebook notebooks/churn_analysis.ipynb
-```
-
----
-
-## ✅ Your Project is Complete!
-
-Now update your resume with the GitHub link:
-```
-GitHub: https://github.com/attardesujal/churn-prediction
